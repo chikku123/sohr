@@ -1,0 +1,29 @@
+{
+  "name": "sohr_new",
+  "version": "1.0.0",
+  "description": "Questionnaire project",
+  "main": "index.js",
+  "scripts": {
+    "test": "error:  page not found"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chikku123/sohr.git"
+  },
+  "keywords": [
+    "auditing"
+  ],
+  "author": "Pooja Ranjith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chikku123/sohr/issues"
+  },
+  "homepage": "https://github.com/chikku123/sohr#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cryptr": "^4.0.2",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.5",
+    "mysql": "^2.17.1"
+  }
+}
